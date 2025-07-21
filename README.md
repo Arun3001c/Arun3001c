@@ -5,7 +5,7 @@
     <h3><b>Who i am...</b></h3>
     <p>
     ➢ I'm ARUN Kumar, A tech enthusiast.<br/>
-    ➢ Persuing my Graduation 3rd year.<br/>
+    ➢ Persuing my Graduation 4rth year.<br/>
     ➢ Currently learning Deep learning.<br/>
    </p>
 </div>
